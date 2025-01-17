@@ -59,10 +59,10 @@ Precision dan Recall: Mengukur ketepatan dan kemampuan model dalam mengidentifik
 F1-Score: Menggabungkan precision dan recall untuk memberikan gambaran yang lebih baik tentang kinerja model.
 Hasil Akurasi: Skor F1: 0.6470588235294118 = 64,7% 
 # Diskusi Hasil dan Kesimpulan
-# Diskusi Hasil:
+-Diskusi Hasil:
 Berdasarkan hasil evaluasi, model KNN dapat memberikan prediksi yang cukup akurat tentang pencapaian gol internasional pemain sepak bola pria. Meskipun ada beberapa kesalahan dalam prediksi, model ini tetap dapat memberikan informasi yang berguna dalam memprediksi pemain yang mungkin mencetak lebih banyak gol internasional.
 
-# Kesimpulan:
+-Kesimpulan:
 Proses pemodelan berhasil mengidentifikasi beberapa pola dalam data yang dapat digunakan untuk memprediksi pencapaian gol internasional.
 Algoritma KNN terbukti efektif dalam memprediksi tingkat pencapaian gol internasional, meskipun ada ruang untuk peningkatan model menggunakan algoritma lain atau teknik lain seperti pengoptimalan parameter lebih lanjut.
 
